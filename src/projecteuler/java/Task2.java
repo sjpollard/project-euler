@@ -1,5 +1,3 @@
-package projecteuler;
-
 public class Task2 {
 	public static void main(String[] args) {
 		int x, y, z, num = 2;
