@@ -1,3 +1,4 @@
+--
 collatz :: Int -> Int -> Int
 collatz 1 x = x
 collatz n x 
