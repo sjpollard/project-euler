@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Task10",
+            "request": "launch",
+            "mainClass": "projecteuler.Task10"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Task5",
             "request": "launch",
             "mainClass": "projecteuler.Task5"
